@@ -1,6 +1,6 @@
 Here is a simple, clean, intuitive explanation of those statements — no math, no jargon, just the logic behind ROC curves, false positives, and choosing the right cut-off.
 
-✅ First: What does the ROC curve actually show?
+# ✅ First: What does the ROC curve actually show?
 
 The ROC curve is a tool that helps you decide where to set the probability cut-off for predicting fraud.
 
